@@ -1,7 +1,23 @@
 /* your styles will go here!! */
 img {
-    a thousand splendid suns border-width: 25%;
+    a thousand splendid suns max-width: 25%;
 }
 img{
-    in the dream house border-width: 25%: ;
+    in the dream house max-width: 25%:;
 }
+<h1>
+// book
+color: white;
+ font-size: 96px;
+ font-family: Indie Flower;
+ font-weight: 400;
+ word-wrap: break-word
+ </h1>
+ <h2>
+ // ish
+ color: white;
+  font-size: 96px;
+  font-family: Indie Flower;
+  font-weight: 400;
+  word-wrap: break-word
+  </h2>

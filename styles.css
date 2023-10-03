@@ -32,6 +32,10 @@ h2 {
   font-style: italic;
  }
 
+ .text {
+  line-height: 10px;
+ }
+ 
   body {
     background-color: hsl(264, 34%, 44%);
     position: fixed;

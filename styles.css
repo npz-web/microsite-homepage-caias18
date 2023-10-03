@@ -33,10 +33,6 @@ h2 {
  }
 
   body {
-    background: #EEE3FF
-    circle: width: 328px;
-    height: 328px;
-    flex-shrink: 0;
-    border-radius: 328px;
-background: rgba(96, 75, 128, 0.92);
+    background: #e8dff5
+    position: fixed;
   }

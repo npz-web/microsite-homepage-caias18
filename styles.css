@@ -1,10 +1,8 @@
 /* your styles will go here!! */
-img {
-  max-width: 50%;
+.home main img {
+  width: 50%;
 }
-img{
-  max-width: 25%;
-}
+
 
 h1 {
   /* book*/
@@ -35,7 +33,7 @@ h2 {
  .text {
   line-height: 10px;
  }
- 
+
   body {
     background-color: hsl(264, 34%, 44%);
     position: fixed;

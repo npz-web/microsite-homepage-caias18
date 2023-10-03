@@ -32,7 +32,7 @@ h2 {
   font-style: italic;
  }
 
-  .background {
+  body {
     background-color: hsl(265, 79%, 87%);
     position: fixed;
   }

@@ -33,6 +33,6 @@ h2 {
  }
 
   .background {
-    background-color: #d2c2e8;
+    background-color: hsl(265, 79%, 87%);
     position: fixed;
   }

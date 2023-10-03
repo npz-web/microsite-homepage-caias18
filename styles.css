@@ -35,6 +35,7 @@ h2 {
   body {
     background-color: hsl(265, 79%, 87%);
     position: fixed;
+    flex-shrink: 0;
   }
 
   @font-face {

@@ -10,7 +10,7 @@ h1 {
   /* book*/
 color: white;
  font-size: 96px;
- font-family: Indie Flower;
+ font-family: 'Indie Flower';
  font-weight: 400;
  word-wrap: break-word
 }
@@ -19,7 +19,7 @@ h2 {
   /*ish*/
  color: white;
  font-size: 96px;
- font-family: Indie Flower;
+ font-family: 'Indie Flower';
  font-weight: 400;
  word-wrap: break-word
  }
@@ -29,6 +29,7 @@ h2 {
   color: white;
   font-size: 72px;
   font-weight: 200;
+  font-style: italic;
  }
 
   body {

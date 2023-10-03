@@ -1,9 +1,9 @@
 /* your styles will go here!! */
 img {
-  max-width: 25%;
+  max-width: 50%;
 }
 img{
-  max-width: 25%:;
+  max-width: 25%;
 }
 
 h1 {
@@ -22,6 +22,13 @@ h2 {
  font-family: Indie Flower;
  font-weight: 400;
  word-wrap: break-word
+ }
+
+ h3 {
+  /*find yourself in a book <3*/
+  color: white;
+  font-size: 72px;
+  font-weight: 200;
  }
 
   body {

@@ -34,6 +34,32 @@ h2 {
   font-family: 'Times New Roman', 'Times New Roman', Times, serif'
  }
 
+ p {
+  /*a thousand splendid suns*/
+  color: #FFF;
+  font-family: Inria Serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 229px;
+  height: 27px;
+  flex-shrink: 0;
+ }
+
+ p {
+  /*in the dream house*/
+  color: #FFF;
+  font-family: Inria Serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 106px;
+  height: 35px;
+  flex-shrink: 0;
+ }
+
 .image-container{
   display: flex;
   flex-wrap: wrap;

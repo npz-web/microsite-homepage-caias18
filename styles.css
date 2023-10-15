@@ -56,12 +56,11 @@ h2 {
 }
 .starcircle{
   width: 100%;
-  color: rgba(169, 149, 199, 0.92);
 
 }
 
   body {
-    background-color: hsl(264, 34%, 44%);
+    background-color: hsl(264, 58%, 75%);
     flex-shrink: 0;
   }
 

@@ -62,7 +62,7 @@ h2 {
   flex-shrink: 0;
  }
 
- p {
+ .copyright {
   /* Copyright ©*/
   color:black;
   font-size: 12px;

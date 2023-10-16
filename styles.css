@@ -16,7 +16,7 @@ color: white;
  line-height: 0.9;
 }
  
-h2 {
+h1 {
   /*ish*/
  color: white;
  font-size: 96px;
@@ -25,7 +25,7 @@ h2 {
  word-wrap: break-word
  }
 
- h3 {
+ h2 {
   /*find yourself in a book <3*/
   color: white;
   font-size: 72px;
@@ -34,7 +34,7 @@ h2 {
   font-family: 'Times New Roman', 'Times New Roman', Times, serif';
  }
 
- h4 {
+ h3 {
   /*books of the week*/
   color: #FFF;
   font-family: 'Times New Roman', Times, serif';

@@ -32,7 +32,6 @@ h2 {
   font-weight: 200;
   font-style: italic;
   font-family: 'Times New Roman', 'Times New Roman', Times, serif'
-  text-align: center;
  }
 
  p {
@@ -47,7 +46,7 @@ h2 {
   height: 27px;
   flex-shrink: 0;
   text-align: right;
-  margin-top: 100px;
+  margin-top: 200px;
  }
 
  .in the dream house {

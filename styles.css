@@ -37,13 +37,13 @@ h2 {
  h4 {
   /*books of the week*/
   color: #FFF;
-  font-family: Inria Serif;
-  font-size: 36px;
-  font-style: normal;
+  font-family: 'Times New Roman', Times, serif';
+  font-size: 30px;
+  font-style: ;
   font-weight: 200;
-  line-height: normal;
-  width: 229px;
-  height: 27px;
+  line-height: italic;
+  width: 200px;
+  height: 22px;
   flex-shrink: 0;
   position: absolute;
  }

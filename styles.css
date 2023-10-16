@@ -38,13 +38,15 @@ h2 {
   /*books of the week*/
   color: #FFF;
   font-family: Inria Serif;
-  font-size: 24px;
+  font-size: 36px;
   font-style: normal;
   font-weight: 200;
   line-height: normal;
   width: 229px;
   height: 27px;
   flex-shrink: 0;
+  position: absolute;
+  text-align: center;
  }
 
  .copyright {

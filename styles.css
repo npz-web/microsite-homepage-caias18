@@ -62,6 +62,13 @@ h2 {
   flex-shrink: 0;
  }
 
+ p {
+  /* Copyright ©*/
+  color:black;
+  font-size: 12px;
+
+ }
+
 .image-container{
   display: flex;
   flex-wrap: wrap;

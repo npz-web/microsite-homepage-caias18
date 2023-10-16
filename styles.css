@@ -31,10 +31,10 @@ h2 {
   font-size: 72px;
   font-weight: 200;
   font-style: italic;
-  font-family: 'Times New Roman', 'Times New Roman', Times, serif'
+  font-family: 'Times New Roman', 'Times New Roman', Times, serif';
  }
 
- p {
+ h4 {
   /*books of the week*/
   color: #FFF;
   font-family: Inria Serif;
@@ -46,15 +46,8 @@ h2 {
   height: 27px;
   flex-shrink: 0;
   position: absolute;
-  text-align: center;
  }
 
- .copyright {
-  /* Copyright ©*/
-  color:black;
-  font-size: 12px;
-  font-weight: 200;
- }
 
 .image-container{
   display: flex;

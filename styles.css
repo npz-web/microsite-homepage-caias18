@@ -35,7 +35,7 @@ h2 {
  }
 
  p {
-  /*a thousand splendid suns*/
+  /*books of the week*/
   color: #FFF;
   font-family: Inria Serif;
   font-size: 24px;
@@ -44,18 +44,6 @@ h2 {
   line-height: normal;
   width: 229px;
   height: 27px;
-  flex-shrink: 0;
- }
-
- .in the dream house {
-  color: #FFF;
-  font-family: Inria Serif;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 200;
-  line-height: normal;
-  width: 106px;
-  height: 35px;
   flex-shrink: 0;
  }
 

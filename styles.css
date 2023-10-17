@@ -53,7 +53,7 @@ h2 {
 .image-container{
   display: flex;
   flex-wrap: wrap;
-  gap: 36px;
+  gap: 42px;
   align-items: center;
   justify-content: center;
   margin-top: 60px;
@@ -67,7 +67,7 @@ h2 {
 .bookcover{
   z-index: 10;
   position: absolute ;
-  width: 80%;
+  width: 70%;
   height: auto;
 
 }

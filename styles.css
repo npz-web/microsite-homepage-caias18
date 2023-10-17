@@ -48,6 +48,7 @@ h2 {
   position: absolute;
   text-align: center;
   margin: 3px;
+  justify: center;
  }
 
  h4 {

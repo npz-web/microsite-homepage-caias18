@@ -22,7 +22,8 @@ h2 {
  font-size: 96px;
  font-family: 'Indie Flower';
  font-weight: 400;
- word-wrap: break-word
+ word-wrap: break-word;
+ text-align: center;
  }
 
  h3 {

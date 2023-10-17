@@ -40,15 +40,10 @@ h2 {
   color: #FFF;
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
-  font-style: regular;
   font-weight: 100;
-  width: 150px;
-  height: 20px;
   flex-shrink: 0;
-  position: absolute;
   text-align: center;
   margin: 3px;
-  justify: center;
  }
 
  h4 {

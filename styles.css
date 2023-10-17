@@ -31,13 +31,14 @@ h2 {
   font-size: 72px;
   font-weight: 200;
   font-style: italic;
-  font-family: 'Times New Roman', 'Times New Roman', Times, serif';
+  font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+  text-align: center;
  }
 
  h4 {
   /*books of the week*/
   color: #FFF;
-  font-family: 'Times New Roman', Times, serif';
+  font-family: 'Times New Roman', Times, serif;
   font-size: 30px;
   font-style: ;
   font-weight: 200;
@@ -47,6 +48,7 @@ h2 {
   flex-shrink: 0;
   position: absolute;
   margin: 7px;
+  text-align: center;
  }
 
 

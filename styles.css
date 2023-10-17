@@ -36,6 +36,20 @@ h2 {
   text-align: center;
  }
 
+ p {
+  color: #FFF;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-style: regular;
+  font-weight: 200;
+  width: 150px;
+  height: 20px;
+  flex-shrink: 0;
+  position: absolute;
+  margin: 3px;
+  text-align: center;
+ }
+
  h4 {
   /*books of the week*/
   color: #FFF;

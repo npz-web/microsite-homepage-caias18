@@ -47,6 +47,7 @@ h2 {
   flex-shrink: 0;
   position: absolute;
   text-align: center;
+  margin: 3px;
  }
 
  h4 {

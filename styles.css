@@ -67,7 +67,7 @@ h2 {
  }
 
  p {
-  color: #FFF;
+  color: #604B80;
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
   font-weight: 150;
@@ -109,6 +109,7 @@ h2 {
   font-size: 30px;
   font-weight: 600;
   font-style: oblique;
+  color: #604B80;
 }
 .bookcover{
   z-index: 10;

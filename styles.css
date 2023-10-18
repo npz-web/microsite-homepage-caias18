@@ -105,6 +105,9 @@ h2 {
   flex-shrink: 1;
   position: relative;
   flex-basis: 300px;
+  font-family: 'Inria Serif';
+  font-size: 24px;
+  font-weight: 600;
 }
 .bookcover{
   z-index: 10;

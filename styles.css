@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inria+Serif&display=swap');
+
+body {
+  font-family: 'Inria Serif', serif;
+}
 
 /* your styles will go here!! */
 .home main img {
@@ -101,8 +105,11 @@ h2 {
     flex-direction: column;
   }
   nav a {
-    color: white;
+    color: #604B80;
     text-align: right;
+    text-decoration: none;
+    font-size: 23px;
+    margin-bottom: 11px;
   }
 
 .nav-container{

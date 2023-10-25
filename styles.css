@@ -105,12 +105,17 @@ h2 {
   flex-shrink: 1;
   position: relative;
   flex-basis: 300px;
+}
+
+.image-wrapper p {
   font-family: 'Indie Flower';
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 600;
   font-style: oblique;
   color: #604B80;
+  max-width: 270px;
 }
+
 .bookcover{
   z-index: 10;
   position: absolute ;

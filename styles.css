@@ -128,3 +128,8 @@ h2 {
   height: 150%;
 }
 
+@media (min-width:640px) {
+  nav a {
+    
+  }
+}
